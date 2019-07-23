@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">P11ProblemStatement</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment1">About us</string>
+    <string name="fragment2">Anniversary</string>
+    <string name="fragment3">Bio</string>
+    <string name="fragment4">Vaccination</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="edit">EDIT</string>
+    <string name="edit_bio">Edit Bio</string>
+    <string name="edit_A">Edit Aniversary</string>
+    <string name="edit_V">Edit Vaccination</string>
+    <string name="okay">OK</string>
+    <string name="cancel">CANCEL</string>
+
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Bio</item>
+        <item>Anniversary</item>
+        <item>Vaccination</item>
+        <item>About Us</item>
+    </string-array>
+
+</resources>
